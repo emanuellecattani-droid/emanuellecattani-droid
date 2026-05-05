@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-cor favorita: roxo, laranja e vermelho.
-nome: emanuelle piatti cattani 
+- cor favorita: roxo, laranja e vermelho.
+- nome: emanuelle piatti cattani 
 série favorita: cobra kai.
 esporte favorito: formula 1.
 estou aprendendo programação: JS, HTML e CSS. 
